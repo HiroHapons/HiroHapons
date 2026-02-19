@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**HiroHapons/HiroHapons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hirofumi Suzuki
+Computer Science and Biology Student
 
-Here are some ideas to get you started:
+I am a developer focused on the intersection of healthcare data and software engineering. My work involves analyzing clinical datasets, building systems-level applications in C++, and developing logic-driven software in Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Focus
+- Medical AI and Clinical Data Analysis
+- Systems Programming and OOP
+- Application Logic and State Management
+
+## Core Stack
+- Languages: Python, C++, SQL
+- Libraries: Pandas, Seaborn, Matplotlib, Scikit-learn
+- Tools: Git, VS Code, Visual Studio, Linux
+
+## Current Projects
+- Heart Disease Clinical Analysis: Exploratory data study using Seaborn and Pandas.
+- Systems Programming Portfolio: A collection of C++ implementations for resource management.
+- Shadows of Eldoria: A Python-based RPG demonstrating complex state-machine logic.
+
+Location: Kashiwa, Japan (Open to international opportunities)
