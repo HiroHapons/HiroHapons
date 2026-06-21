@@ -1,23 +1,40 @@
-## Hi there 👋
+# Hi there 👋
 
 # Hirofumi Suzuki
-Computer Science and Biology Student
 
-I am a developer focused on the intersection of healthcare data and software engineering. My work involves analyzing clinical datasets, building systems-level applications in C++, and developing logic-driven software in Python.
+Data Analyst | Bioinformatics | Python · SQL · R
 
-## Technical Focus
-- Medical AI and Clinical Data Analysis
-- Systems Programming and OOP
-- Application Logic and State Management
+I'm a Biology graduate and Computer Science student based in Kashiwa, 
+Japan, working at the intersection of data analysis and computational 
+genomics. I analyze complex datasets, build business intelligence 
+reports, and develop bioinformatics pipelines for cancer genomics research.
 
-## Core Stack
-- Languages: Python, C++, SQL
-- Libraries: Pandas, Seaborn, Matplotlib, Scikit-learn
-- Tools: Git, VS Code, Visual Studio, Linux
+---
 
-## Current Projects
-- Heart Disease Clinical Analysis: Exploratory data study using Seaborn and Pandas.
-- Systems Programming Portfolio: A collection of C++ implementations for resource management.
-- Shadows of Eldoria: A Python-based RPG demonstrating complex state-machine logic.
+## Technical Stack
 
-Location: Kashiwa, Japan (Open to international opportunities)
+- **Languages:** Python, SQL, R
+- **Libraries:** pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Tools:** Git, Jupyter Notebook, Galaxy, SQLite, Power BI (in progress)
+- **Domains:** Cancer Genomics, NGS Data Analysis, Business Intelligence
+
+---
+
+## Projects
+
+- 🔬 **[Superstore Sales Analysis](https://github.com/HiroHapons/superstore-sales-analysis)** — SQL analysis of 9,994 retail transactions identifying profitability drivers and regional performance gaps
+- 🦟 **[Philippine Dengue Surveillance Analysis](link)** — 6-year DOH dataset analysis identifying outbreak patterns using Python and pandas
+- 🧬 **Cancer Genomics Pipeline** — NGS data QC and genome assembly for lung cancer dataset (PRJDB37491) using Galaxy and SPAdes
+
+---
+
+## Current Focus
+
+- Genomac International Cancer Genomics Internship
+- BS Computer Science @ Southern New Hampshire University (2027)
+- Building data analyst portfolio for remote work
+
+---
+
+📍 Kashiwa, Japan · Open to remote opportunities
+📧 hirokong20@gmail.com
