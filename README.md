@@ -23,7 +23,7 @@ reports, and develop bioinformatics pipelines for cancer genomics research.
 ## Projects
 
 - 🔬 **[Superstore Sales Analysis](https://github.com/HiroHapons/superstore-sales-analysis)** — SQL analysis of 9,994 retail transactions identifying profitability drivers and regional performance gaps
-- 🦟 **[Philippine Dengue Surveillance Analysis](link)** — 6-year DOH dataset analysis identifying outbreak patterns using Python and pandas
+- 🦟 **[Philippine Dengue Surveillance Analysis](https://github.com/HiroHapons/ph-dengue-analysis)** — 6-year DOH dataset analysis identifying outbreak patterns using Python and pandas
 - 🧬 **Cancer Genomics Pipeline** — NGS data QC and genome assembly for lung cancer dataset (PRJDB37491) using Galaxy and SPAdes
 
 ---
